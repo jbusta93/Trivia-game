@@ -1,0 +1,28 @@
+body{
+  background-image: url(../images/background.jpg);
+  font-family: 'Bungee Inline', cursive;
+}
+
+h1{
+  font-family: 'Press Start 2P', cursive;
+}
+
+img{
+  width: 400px;
+  height: auto;
+  border: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+p{
+  font-size: 25px;
+}
+
+.quiz-area {
+  background-color: turquoise;
+}
+
+.answer{
+  color: white;
+}
